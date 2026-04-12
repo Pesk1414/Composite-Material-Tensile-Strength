@@ -1,4 +1,6 @@
 # Composite-Material-Tensile-Strength
+
+<img width="1024" height="559" alt="Image" src="https://github.com/user-attachments/assets/0349dc5b-cb45-44e8-8833-01c59eede9d2" />
 This dataset provides a physics-inspired synthetic regression dataset designed to model the tensile strength behavior of fiber-reinforced composite materials. It is suitable for machine learning, data science, and materials engineering applications.
 This README is designed to provide a professional overview of the data analysis, focusing on the performance of different fiber and resin combinations as shown in this visualization.
 ## Composite Material Tensile Strength Analysis
