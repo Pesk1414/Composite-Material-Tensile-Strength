@@ -1,6 +1,6 @@
 # Composite-Material-Tensile-Strength
 
-<img width="1024" height="559" alt="Image" src="https://github.com/user-attachments/assets/0349dc5b-cb45-44e8-8833-01c59eede9d2" />
+<img width="225" height="225" alt="Image" src="https://github.com/user-attachments/assets/3d324be5-4167-43ec-9ea4-5ed7a386df20" />
 
 This README is designed to provide a professional overview of the data analysis, focusing on the performance of different fiber and resin combinations as shown in this visualization.
 ## Composite Material Tensile Strength Analysis
