@@ -18,3 +18,17 @@ The analysis tracks the average tensile strength across a matrix of materials:
    4. *Glass:* Cost-effective, general-purpose reinforcement.
 ### Technical Visualization
 The data is visualized through a grouped bar chart, allowing for a direct comparison of how a specific resin influences the tensile properties of different fibers.
+| Variable | Description |
+|---|---|
+| fiber_type | The reinforcing agent (Independent Variable) |
+| resin_type | The polymer matrix (Grouping Variable) |
+| tensile_strength_mpa | The measured stress until failure (Dependent Variable) |
+### Applications
+The findings from this analysis are critical for material selection in:
+ Aerospace & Automotive:* Prioritizing Carbon/Epoxy for weight reduction and high stress.
+ Civil Engineering:* Utilizing Basalt or Glass for infrastructure reinforcement where cost and corrosion resistance are key.
+ Marine:* Evaluating Vinyl Ester for its balance of strength and moisture resistance.
+### How to Use This Repository
+ 1. *Data:* View the raw results in the /data folder.
+ 2. *Analysis:* The Excel/Power BI source files used to generate the charts are located in /visualizations.
+ 3. *Usage:* Refer to the summary table for quick material specification references.
