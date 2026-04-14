@@ -1,4 +1,4 @@
-# Composite Material Tensile Strength Datase
+# Composite Material Tensile Strength Dataset
 
 <img width="225" height="225" alt="Image" src="https://github.com/user-attachments/assets/3d324be5-4167-43ec-9ea4-5ed7a386df20" />
 
