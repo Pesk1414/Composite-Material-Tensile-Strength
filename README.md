@@ -65,7 +65,6 @@ Does the data suggest a 'diminishing return' for curing temperatures above a cer
 Answer: This chart illustrates the relationship between Curing Temperature and the Mean Tensile Strength (measured in MPa) for four different types of resins.
 Across all four resin types, there is a positive correlation between curing temperature and tensile strength. As the temperature increases from the 60–80°C range to the 140–160°C range, the mean tensile strength consistently rises. This suggests that higher curing temperatures generally improve the cross-linking or bonding efficiency of these materials.
 The slope of the lines indicates how sensitive each resin is to temperature changes.
-<img width="4949" height="1127" alt="image" src="https://github.com/user-attachments/assets/d69d7981-9b3d-4552-bb4a-b785f50bb527" />
 
 ### Applications
 The findings from this analysis are critical for material selection in:
