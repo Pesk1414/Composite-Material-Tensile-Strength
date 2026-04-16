@@ -27,6 +27,7 @@ The data is visualized through a grouped bar chart, allowing for a direct compar
 | tensile_strength_mpa | The measured stress until failure (Dependent Variable) |
 
 Business Questions and  Result Interpretations
+
 Based on the technical trends identified in the dataset, here are six business questions designed to bridge the gap between material performance and operational decision-making:
 
 Question 1. Product Optimization & R&D
